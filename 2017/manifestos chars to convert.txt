@@ -1,0 +1,14 @@
+Edits made to automatically converted txt files:
+
+£ to &pound;
+– to -
+“ to "
+” to "
+‘ to &bquo; and the corresponding ' to &equo;
+• or · to &bull;
+All remaining smart quotes ’ to '
+
+Edit headers and footers and page numbers as XML tags
+
+Things left to do:
+€ to &euro;
